@@ -1,0 +1,8 @@
+{
+  "name": "lepv",
+  "version": "0.0.1",
+  "dependencies": {
+    "@types/socket.io": "1.4.31",
+    "@types/jquery": "3.2.16"
+  }
+}
